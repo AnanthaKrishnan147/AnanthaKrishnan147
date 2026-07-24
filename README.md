@@ -128,9 +128,9 @@ Currently developing a research-oriented AI system with real-world applicability
 
 ## 📫 Connect
 
-- LinkedIn: *(Add your profile)*
+- LinkedIn: *https://www.linkedin.com/in/anantha-krishnan-70974a28a/*
 - Portfolio: *(Coming Soon)*
-- Email: *(Add your email)*
+- Email: *ananthakrishnan.kosthubam@gmail.com*
 
 ---
 
